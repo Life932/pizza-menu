@@ -1,3 +1,5 @@
+// Contains the backend data for our Pizza Menu Server
+// All of the following are received as data and later converted into json for use
 export const pizzaData = [
   {
     name: "Focaccia",
